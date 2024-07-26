@@ -1,0 +1,61 @@
+.App1 {
+  text-align: center;
+  margin-top: 70px;
+  background-image: url(library2.jpg);
+  background-size: cover;
+  justify-content: center;
+}
+
+form h1
+{
+      font-size: 36px;
+      text-align: center;
+      font-style: italic;
+      color: rgb(0, 30, 55);
+}
+
+form {
+  max-width: 400px;
+  padding: 20px;
+  margin: auto;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  background:transparent;
+  justify-content: center;
+  
+}
+
+div {
+  margin-bottom: 15px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input {
+  width: 100%;
+  padding: 12px;
+  box-sizing: border-box;
+  border-radius: 40px;
+ border-color: slategrey;
+  
+
+}
+
+button {
+  background-color:rgb(0, 30, 55);
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 70%;
+  margin-top: 7px;
+  font-size: 25px;
+}
+
+button:hover {
+  background-color: rgb(3, 90, 162);
+}
